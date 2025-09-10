@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "7cb2ed862a933611",
+    "type": "split",
+    "children": [
+      {
+        "id": "241e7ab500f1d292",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d93a183b88c0ce01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/test LLM.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test LLM"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f10a15076ba01b37",
+    "type": "split",
+    "children": [
+      {
+        "id": "8790186be7d6e354",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c94c5e4dde68167",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ccf07fecc8379332",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "019543cf6c6e3f77",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be39f10fe281eb0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "66835735885036e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f93395273326935e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "31b84f6511261cc5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "b3c0ec583a63e615",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b3a1298f59d5546b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欧拉恒等式 (Euler's Identity).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欧拉恒等式 (Euler's Identity) 的大纲"
+            }
+          },
+          {
+            "id": "830790f0910ff2f6",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "35a2dcb95607bd70",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 827.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "workspaces:管理工作区布局": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3c94c5e4dde68167",
+  "lastOpenFiles": [
+    "00_Inbox/欧拉恒等式 (Euler's Identity).md",
+    "README.md",
+    "00_Inbox/test LLM.md",
+    "copilot-custom-prompts/Emojify.md",
+    "2025-09-11.md",
+    "copilot-conversations/有序列表和无序列表。_2._如何在_Obsidian_中创建和使用链接？_笔记解释@20250911_015244.md",
+    "copilot-conversations/笔记中的关键问题@20250911_015244.md",
+    "copilot-conversations/总结笔记的关键问题@20250911_015244.md",
+    "copilot-conversations/Obsidian_基础功能示例文档@20250911_014828.md",
+    "copilot-conversations",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts",
+    "欢迎.md",
+    "00_Inbox"
+  ]
+}
